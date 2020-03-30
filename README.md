@@ -32,7 +32,7 @@ Para listar todos los productos disponibles es necesario estar logueado, de lo c
 
 Se puede usar la cuenta de admin o cliente generadas por defecto en la creación de la DB. Se puede loguear usando user o email.
 {
-        "user": "emma_1990",
+        "user": "emma",
         "password": "1234"
  }
 
